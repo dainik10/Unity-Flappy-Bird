@@ -4,7 +4,7 @@ public class Player : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
     public Sprite[] sprites;
-    private int spriteIndex;
+    private int spriteIndex; 
 
     public float strength = 5f;
     public float gravity = -9.81f;
